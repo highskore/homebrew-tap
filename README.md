@@ -3,5 +3,5 @@
 Homebrew casks from highskore.
 
 ```
-brew install --cask highskore/tap/powerrr
+brew install --cask highskore/tap/idle-fighterz
 ```
